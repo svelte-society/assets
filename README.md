@@ -1,1 +1,1 @@
-Assets for Svelte Society
+# assets
