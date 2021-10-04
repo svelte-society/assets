@@ -15,6 +15,8 @@ Shared Resources for all Societies
 
 ## Meetup Assets
 
+These are graciously designed and donated by [Vadim Pleshkov](http://vadimpleshkov.me/) - give him a shoutout on [Twitter!](https://twitter.com/aswellasyouare?lang=en)
+
 ![Downtomeet header](https://user-images.githubusercontent.com/6764957/75638786-a87e7480-5bfb-11ea-90ef-8ea507bc0457.jpg)
 ![Downtoomeetlogo](https://user-images.githubusercontent.com/6764957/75638787-a87e7480-5bfb-11ea-878a-25bec4044e0b.jpg)
 ![Twitter Header](https://user-images.githubusercontent.com/6764957/75638788-a87e7480-5bfb-11ea-9270-7c7552a40042.jpg)
